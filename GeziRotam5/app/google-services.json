@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807090113318",
+    "project_id": "gezirotamdatabase-fd705",
+    "storage_bucket": "gezirotamdatabase-fd705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807090113318:android:da7fefb52990e455718fe7",
+        "android_client_info": {
+          "package_name": "com.augusta.gezirotam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807090113318-l4n795gcn9mj6om5usnoeuluk8lpqb74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjwRGC7H_fC0uWjTJRbKTx4xnC7Fsw-ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807090113318-l4n795gcn9mj6om5usnoeuluk8lpqb74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

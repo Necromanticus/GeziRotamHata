@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeziRotam</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="base_url">https://maps.googleapis.com</string>
+    <string name="api_key">AIzaSyDxsPg7-OCYmLXd4nL5usNJLFOFRgXP7ZE</string>
+
+
+</resources>
